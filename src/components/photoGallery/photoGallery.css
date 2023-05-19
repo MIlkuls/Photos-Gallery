@@ -1,0 +1,38 @@
+ .modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .modal-content {
+    width: 50%;
+    background-color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+
+
+  img{
+    border:2px solid black;
+  }
+
+  .img_wrapper{
+     width:50%;
+     height: auto;
+  }
+ 
+
+  .descr h2{
+    font-size: 2vh;
+  }
+  .descr p{
+    font-size: 1vh;
+  }
+
+ 
